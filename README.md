@@ -7,7 +7,7 @@ Por favor validar los valores hash del archivo:
 
 validador_CVE-2023-4966.py
 
-MD5: 107ba244a5bce25b15507059be144f4c            
-SHA1: 62f54f84e9064fd472583737200d04279bd394fc                                                                                            
-SHA256: fe713cabc2c804876b60614917dc248e6f437925182e7270356e60d070970632  
+MD5: f425c37da954f8c432b2ee9117a57a10            
+SHA1: 648c7712364643ab42553447c60d05c2cd2068a7                                                                                          
+SHA256: b409316c62a3dab63723500ab6dad06dfe1b8990b07b76b5c1bc074f768c1c19  
 
